@@ -1,3 +1,7 @@
-# OhBalls
+# Oh Balls Mobile Game
+
+My first mobile game created with Corona SDK.
+
+[View on YouTube](https://www.youtube.com/channel/UCk-3NdAOz-_sgGz1pWWFeKg)
 
 ![Oh Balls Demo](ohBallsGif.gif)
